@@ -43,7 +43,7 @@ export default function Index() {
           <div className="relative mx-auto lg:mx-0 animate-scale-in">
             <div className="relative">
               <img
-                src="/img/f144882b-ecaf-4207-adba-ba6019af59cb.jpg"
+                src="/img/b9b5bf00-aaba-4fb0-a58a-d925e42ea2fe.jpg"
                 alt="Психотерапевт Алёна Чернова"
                 className="rounded-2xl shadow-2xl max-w-md mx-auto"
               />
